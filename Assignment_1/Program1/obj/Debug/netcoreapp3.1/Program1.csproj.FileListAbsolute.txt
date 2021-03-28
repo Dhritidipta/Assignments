@@ -1,0 +1,26 @@
+C:\Users\Windows\source\repos\Program1\obj\Debug\netcoreapp3.1\Program1.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\Program1\obj\Debug\netcoreapp3.1\Program1.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\Program1\obj\Debug\netcoreapp3.1\Program1.AssemblyInfo.cs
+C:\Users\Windows\source\repos\Program1\obj\Debug\netcoreapp3.1\Program1.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Program1\bin\Debug\netcoreapp3.1\Program1.exe
+C:\Users\Windows\source\repos\Program1\bin\Debug\netcoreapp3.1\Program1.deps.json
+C:\Users\Windows\source\repos\Program1\bin\Debug\netcoreapp3.1\Program1.runtimeconfig.json
+C:\Users\Windows\source\repos\Program1\bin\Debug\netcoreapp3.1\Program1.runtimeconfig.dev.json
+C:\Users\Windows\source\repos\Program1\bin\Debug\netcoreapp3.1\Program1.dll
+C:\Users\Windows\source\repos\Program1\bin\Debug\netcoreapp3.1\Program1.pdb
+C:\Users\Windows\source\repos\Program1\obj\Debug\netcoreapp3.1\Program1.dll
+C:\Users\Windows\source\repos\Program1\obj\Debug\netcoreapp3.1\Program1.pdb
+C:\Users\Windows\source\repos\Program1\obj\Debug\netcoreapp3.1\Program1.genruntimeconfig.cache
+F:\BCT Training\C# progs\Program1\bin\Debug\netcoreapp3.1\Program1.exe
+F:\BCT Training\C# progs\Program1\bin\Debug\netcoreapp3.1\Program1.deps.json
+F:\BCT Training\C# progs\Program1\bin\Debug\netcoreapp3.1\Program1.runtimeconfig.json
+F:\BCT Training\C# progs\Program1\bin\Debug\netcoreapp3.1\Program1.runtimeconfig.dev.json
+F:\BCT Training\C# progs\Program1\bin\Debug\netcoreapp3.1\Program1.dll
+F:\BCT Training\C# progs\Program1\bin\Debug\netcoreapp3.1\Program1.pdb
+F:\BCT Training\C# progs\Program1\obj\Debug\netcoreapp3.1\Program1.csprojAssemblyReference.cache
+F:\BCT Training\C# progs\Program1\obj\Debug\netcoreapp3.1\Program1.AssemblyInfoInputs.cache
+F:\BCT Training\C# progs\Program1\obj\Debug\netcoreapp3.1\Program1.AssemblyInfo.cs
+F:\BCT Training\C# progs\Program1\obj\Debug\netcoreapp3.1\Program1.csproj.CoreCompileInputs.cache
+F:\BCT Training\C# progs\Program1\obj\Debug\netcoreapp3.1\Program1.dll
+F:\BCT Training\C# progs\Program1\obj\Debug\netcoreapp3.1\Program1.pdb
+F:\BCT Training\C# progs\Program1\obj\Debug\netcoreapp3.1\Program1.genruntimeconfig.cache

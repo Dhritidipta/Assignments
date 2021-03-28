@@ -1,0 +1,12 @@
+F:\BCT Training\C# progs\ElizaIsSilly\bin\Debug\netcoreapp3.1\ElizaIsSilly.exe
+F:\BCT Training\C# progs\ElizaIsSilly\bin\Debug\netcoreapp3.1\ElizaIsSilly.deps.json
+F:\BCT Training\C# progs\ElizaIsSilly\bin\Debug\netcoreapp3.1\ElizaIsSilly.runtimeconfig.json
+F:\BCT Training\C# progs\ElizaIsSilly\bin\Debug\netcoreapp3.1\ElizaIsSilly.runtimeconfig.dev.json
+F:\BCT Training\C# progs\ElizaIsSilly\bin\Debug\netcoreapp3.1\ElizaIsSilly.dll
+F:\BCT Training\C# progs\ElizaIsSilly\bin\Debug\netcoreapp3.1\ElizaIsSilly.pdb
+F:\BCT Training\C# progs\ElizaIsSilly\obj\Debug\netcoreapp3.1\ElizaIsSilly.AssemblyInfoInputs.cache
+F:\BCT Training\C# progs\ElizaIsSilly\obj\Debug\netcoreapp3.1\ElizaIsSilly.AssemblyInfo.cs
+F:\BCT Training\C# progs\ElizaIsSilly\obj\Debug\netcoreapp3.1\ElizaIsSilly.csproj.CoreCompileInputs.cache
+F:\BCT Training\C# progs\ElizaIsSilly\obj\Debug\netcoreapp3.1\ElizaIsSilly.dll
+F:\BCT Training\C# progs\ElizaIsSilly\obj\Debug\netcoreapp3.1\ElizaIsSilly.pdb
+F:\BCT Training\C# progs\ElizaIsSilly\obj\Debug\netcoreapp3.1\ElizaIsSilly.genruntimeconfig.cache

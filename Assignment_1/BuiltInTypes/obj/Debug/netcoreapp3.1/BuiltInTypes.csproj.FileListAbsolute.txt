@@ -1,0 +1,13 @@
+F:\BCT Training\C# progs\BuiltInTypes\bin\Debug\netcoreapp3.1\BuiltInTypes.exe
+F:\BCT Training\C# progs\BuiltInTypes\bin\Debug\netcoreapp3.1\BuiltInTypes.deps.json
+F:\BCT Training\C# progs\BuiltInTypes\bin\Debug\netcoreapp3.1\BuiltInTypes.runtimeconfig.json
+F:\BCT Training\C# progs\BuiltInTypes\bin\Debug\netcoreapp3.1\BuiltInTypes.runtimeconfig.dev.json
+F:\BCT Training\C# progs\BuiltInTypes\bin\Debug\netcoreapp3.1\BuiltInTypes.dll
+F:\BCT Training\C# progs\BuiltInTypes\bin\Debug\netcoreapp3.1\BuiltInTypes.pdb
+F:\BCT Training\C# progs\BuiltInTypes\obj\Debug\netcoreapp3.1\BuiltInTypes.csprojAssemblyReference.cache
+F:\BCT Training\C# progs\BuiltInTypes\obj\Debug\netcoreapp3.1\BuiltInTypes.AssemblyInfoInputs.cache
+F:\BCT Training\C# progs\BuiltInTypes\obj\Debug\netcoreapp3.1\BuiltInTypes.AssemblyInfo.cs
+F:\BCT Training\C# progs\BuiltInTypes\obj\Debug\netcoreapp3.1\BuiltInTypes.csproj.CoreCompileInputs.cache
+F:\BCT Training\C# progs\BuiltInTypes\obj\Debug\netcoreapp3.1\BuiltInTypes.dll
+F:\BCT Training\C# progs\BuiltInTypes\obj\Debug\netcoreapp3.1\BuiltInTypes.pdb
+F:\BCT Training\C# progs\BuiltInTypes\obj\Debug\netcoreapp3.1\BuiltInTypes.genruntimeconfig.cache
