@@ -1,7 +1,0 @@
-C:\Users\timbuchalka\Desktop\C#Programs\ElizaIsSilly\bin\Debug\ElizaIsSilly.exe.config
-C:\Users\timbuchalka\Desktop\C#Programs\ElizaIsSilly\bin\Debug\ElizaIsSilly.exe
-C:\Users\timbuchalka\Desktop\C#Programs\ElizaIsSilly\bin\Debug\ElizaIsSilly.pdb
-C:\Users\timbuchalka\Desktop\C#Programs\ElizaIsSilly\obj\Debug\ElizaIsSilly.csprojAssemblyReference.cache
-C:\Users\timbuchalka\Desktop\C#Programs\ElizaIsSilly\obj\Debug\ElizaIsSilly.csproj.CoreCompileInputs.cache
-C:\Users\timbuchalka\Desktop\C#Programs\ElizaIsSilly\obj\Debug\ElizaIsSilly.exe
-C:\Users\timbuchalka\Desktop\C#Programs\ElizaIsSilly\obj\Debug\ElizaIsSilly.pdb
