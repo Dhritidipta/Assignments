@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5CqZcGB/gpOhEfLE/iIPARTbsI2KEXjDitFWpYtiKYveVIAcfRJYq5Sdjz7Er18ixBvPOgfIPlK39bjs9Aw3Eg==",
+  "success": true,
+  "projectFilePath": "F:\\BCT_Training\\Assignment_1\\JsonRW\\JsonRW.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
