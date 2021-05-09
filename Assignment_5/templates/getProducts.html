@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    {% if not result_len: %}
+        <form action="/product" enctype="multipart/form-data" method="get">
+        <h4>Oops! There is no product added.</h4>
+        <p><input type="submit" value="Add product" style="color: red;margin-left: 60px;" name="submit"></p>
+        </form>
+    {% elif result_len == 1 and getById: %}
+        {% if deleteFlag: %}
+                <h3>Product has been deleted successfully!</h3>
+            {% endif %}
+            {% if updateFlag: %}
+                <h3>Product has been updated successfully!</h3>
+            {% endif %}
+            <h4>id: {{result.id}}</h4> 
+            <h4>Name: {{result.name}}</h4> 
+            <h4>Description: {{result.description}}</h4> 
+            <h4>Price: {{result.price}}</h4> 
+            <h4>Quantity: {{result.qty}}</h4>
+            {% if result.image_name: %}
+                <h4>Image: <a href="file://{{path+'/images/'+result.image_name}}">{{path+'/images/'+result.image_name}}</a></h4>
+            {% endif%}
+        
+    {% else: %}
+        {% for result in result: %} 
+            <h4>id: {{result.id}}</h4> 
+            <h4>Name: {{result.name}}</h4> 
+            <h4>Description: {{result.description}}</h4> 
+            <h4>Price: {{result.price}}</h4> 
+            <h4>Quantity: {{result.qty}}</h4>
+            {% if result.image_name: %}
+                <h4>Image: <a href="file://{{path+'/images/'+result.image_name}}">{{path+'/images/'+result.image_name}}</a></h4>
+            {% endif%}<br><br>
+        {% endfor %}
+    {%endif%}
+</body>
+</html>
